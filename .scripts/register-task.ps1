@@ -26,8 +26,9 @@ $action = New-ScheduledTaskAction `
     -Execute "powershell.exe" `
     -Argument "-ExecutionPolicy Bypass -WindowStyle Hidden -File `"$ScriptPath`""
 
-# 트리거: 사용자 로그인 시
-$trigger = New-ScheduledTaskTrigger -AtLogOn
+# 트리거: 사용자 로그인 시 (CIM 방식 — 호환성 높음)
+$trigger = New-CimInstance -CimClass (Get-CimClass -ClassName MSFT_TaskLogonTrigger -Namespace Root/Microsoft/Windows/TaskScheduler) -ClientOnly
+$trigger.Enabled = $true
 
 # 설정: 무기한 실행, 배터리에서도 실행
 $settings = New-ScheduledTaskSettingsSet `
