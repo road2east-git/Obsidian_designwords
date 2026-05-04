@@ -20,3 +20,4 @@ sources: [50-design-words-to-know.md, 51-key-words-all-designers-should-know.md]
 
 ---
 **관련 소스:** [[50-design-words-to-know]], [[51-key-words-all-designers-should-know]]
+**관련 개념:** [[design-systems]], [[color-theory]], [[typography]]

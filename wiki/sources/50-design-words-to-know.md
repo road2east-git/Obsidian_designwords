@@ -18,3 +18,5 @@ Canva에서 제공하는 디자인 핵심 단어 50가지를 설명하는 문서
 
 ---
 **원본 소스:** [50 design words to know.md](../../raw/50%20design%20words%20to%20know.md)
+**관련 도구:** [[canva]]
+**관련 개념:** [[typography]], [[color-theory]], [[composition-and-layout]], [[branding]], [[print-design]]

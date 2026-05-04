@@ -18,3 +18,5 @@ Adobe Express에서 제공하는 디자이너를 위한 51가지 핵심 키워�
 
 ---
 **원본 소스:** [51 Key words all designers should know.md](../../raw/51%20Key%20words%20all%20designers%20should%20know.md)
+**관련 도구:** [[adobe-express]]
+**관련 개념:** [[typography]], [[color-theory]], [[branding]], [[print-design]]

@@ -38,3 +38,4 @@ sources: [design-words-02.md]
 
 ---
 **관련 소스:** [[design-words-02]]
+**관련 개념:** [[composition-and-layout]], [[typography]], [[color-theory]]

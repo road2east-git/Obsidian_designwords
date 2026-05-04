@@ -84,3 +84,28 @@
   - `wiki/entities/adobe-photoshop.md` — 개체: Adobe Photoshop
 - `index.md` 업데이트 완료
 - 총 영향 받은 파일: 7개
+
+---
+
+## [2026-05-05] lint | 전체 위키 링크 무결성 점검
+
+### 발견된 이슈 및 수정 내역
+
+**1. Broken Links (깨진 링크) 수정**
+- `dataview.md`, `marp.md`에서 존재하지 않는 `[[obsidian]]` 링크를 일반 텍스트로 교체
+
+**2. 고아 페이지 (Orphan Pages) 해소**
+- `canva` → `50-design-words-to-know.md`에 `[[canva]]` 링크 추가
+- `adobe-express` → `51-key-words-all-designers-should-know.md`에 `[[adobe-express]]` 링크 추가
+- `marp` ↔ `qmd` 상호 참조 링크 추가
+- `dataview` → `[[design-systems]]` 개념 연관 링크 추가
+- `adobe-photoshop` → `image-file-formats.md`에 `[[adobe-photoshop]]` 링크 추가
+
+**3. 교차 참조 강화 (11개 파일 수정)**
+- `branding.md`, `print-design.md`, `design-styles.md`에 관련 개념 링크 추가
+- `50-design-words-to-know.md`, `51-key-words-all-designers-should-know.md`에 도구/개념 링크 추가
+
+### 린트 후 상태
+- 총 22개 위키 페이지 검토 완료
+- 고아 페이지: 0개
+- 깨진 링크: 0개

@@ -28,3 +28,4 @@ sources: [design-words-01.md]
 
 ---
 **관련 소스:** [[design-words-01]]
+**관련 엔티티:** [[adobe-photoshop]]
