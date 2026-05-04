@@ -49,3 +49,25 @@
 - 발견 사항: `wiki/sources/karpathy-llm-knowledge-base-pattern.md` 및 `wiki/entities/obsidian.md` 등에서 `[[Dataview]]`, `[[Marp]]`, `[[qmd]]` 링크가 고아(orphan) 상태로 방치되어 있는 것을 발견.
 - 조치: 3개의 누락된 개체 페이지 생성 (`wiki/entities/dataview.md`, `wiki/entities/marp.md`, `wiki/entities/qmd.md`)
 - `index.md` 엔티티 리스트에 위 항목들 업데이트 완료
+
+## [2026-05-04] lint | 원본 소스 삭제에 따른 위키 클린업
+- 발견 사항: 사용자가 `raw/karpathy-llm-knowledge-base-pattern.md`를 삭제함.
+- 조치:
+  - `wiki/sources/karpathy-llm-knowledge-base-pattern.md` 삭제
+  - 해당 소스에만 의존하던 고아 페이지 6개 삭제 (`vannevar-bush.md`, `obsidian.md`, `andrej-karpathy.md`, `rag.md`, `memex.md`, `rag-vs-llm-wiki.md`)
+  - `wiki/entities/qmd.md` 등에서 남아있는 참조 링크 제거
+  - `index.md` 인덱스 갱신 (관련된 페이지 링크 모두 제거)
+
+## [2026-05-04] ingest | 디자인 추가 용어 및 스타일
+- 소스: `raw/50 design words to know.md`, `raw/51 Key words all designers should know.md`, `raw/design words 02.md`
+- 생성된 페이지:
+  - `wiki/sources/50-design-words-to-know.md`
+  - `wiki/sources/51-key-words-all-designers-should-know.md`
+  - `wiki/sources/design-words-02.md`
+  - `wiki/concepts/branding.md` — 개념: Branding
+  - `wiki/concepts/design-styles.md` — 개념: Design Styles
+  - `wiki/concepts/print-design.md` — 개념: Print Design
+  - `wiki/entities/canva.md` — 개체: Canva
+  - `wiki/entities/adobe-express.md` — 개체: Adobe Express
+- 기존 페이지 갱신: `typography.md`, `composition-and-layout.md`, `color-theory.md` 관련 소스 필드 업데이트
+- `index.md` 업데이트 완료

@@ -4,7 +4,7 @@ type: concept
 created: 2026-05-04
 updated: 2026-05-04
 tags: [design, composition]
-sources: [design-words-01.md]
+sources: [design-words-01.md, 50-design-words-to-know.md, 51-key-words-all-designers-should-know.md]
 ---
 # Composition and Layout (디자인 구도와 레이아웃)
 
@@ -23,4 +23,4 @@ sources: [design-words-01.md]
 - **Hierarchy (계층 구조):** 중요도에 따른 요소들의 구성 방식.
 
 ---
-**관련 소스:** [[design-words-01]]
+**관련 소스:** [[design-words-01]], [[50-design-words-to-know]], [[51-key-words-all-designers-should-know]]

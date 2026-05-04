@@ -4,7 +4,7 @@ type: concept
 created: 2026-05-04
 updated: 2026-05-04
 tags: [design, color]
-sources: [design-words-01.md]
+sources: [design-words-01.md, 50-design-words-to-know.md, 51-key-words-all-designers-should-know.md]
 ---
 # Color Theory (색채 이론)
 
@@ -28,4 +28,4 @@ sources: [design-words-01.md]
 - **RGB:** 화면용 (Red, Green, Blue). 빛을 섞을수록 밝아짐. ![[RBG-2-column.avif]]
 
 ---
-**관련 소스:** [[design-words-01]]
+**관련 소스:** [[design-words-01]], [[50-design-words-to-know]], [[51-key-words-all-designers-should-know]]

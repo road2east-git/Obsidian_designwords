@@ -4,7 +4,7 @@ type: concept
 created: 2026-05-04
 updated: 2026-05-04
 tags: [design, typography]
-sources: [design-words-01.md]
+sources: [design-words-01.md, 50-design-words-to-know.md, 51-key-words-all-designers-should-know.md]
 ---
 # Typography (타이포그래피 기초)
 
@@ -25,4 +25,4 @@ sources: [design-words-01.md]
 - **Widows & Orphans:** 문단의 끝이나 시작 부분에 홀로 떨어져 있는 단어를 의미하며 피해야 할 디자인 요소입니다.
 
 ---
-**관련 소스:** [[design-words-01]]
+**관련 소스:** [[design-words-01]], [[50-design-words-to-know]], [[51-key-words-all-designers-should-know]]
