@@ -71,3 +71,16 @@
   - `wiki/entities/adobe-express.md` — 개체: Adobe Express
 - 기존 페이지 갱신: `typography.md`, `composition-and-layout.md`, `color-theory.md` 관련 소스 필드 업데이트
 - `index.md` 업데이트 완료
+
+## [2026-05-05] ingest | Top 862 Graphic Design Keywords
+- 소스: `raw/Top 862 Graphic Design keywords_ Discover the Buzz.md`
+- 출처: [keywordseverywhere.com](https://keywordseverywhere.com/ctl/top/graphic-design-keywords)
+- 생성된 페이지:
+  - `wiki/sources/top-862-graphic-design-keywords.md`
+  - `wiki/concepts/ux-ui-design.md` — 개념: UX/UI Design (와이어프레임, 프로토타입 등)
+  - `wiki/concepts/design-systems.md` — 개념: Design Systems (토큰, 컴포넌트, Atomic Design)
+  - `wiki/concepts/gestalt-principles.md` — 개념: Gestalt Principles (근접성, 유사성 등)
+  - `wiki/entities/figma.md` — 개체: Figma
+  - `wiki/entities/adobe-photoshop.md` — 개체: Adobe Photoshop
+- `index.md` 업데이트 완료
+- 총 영향 받은 파일: 7개

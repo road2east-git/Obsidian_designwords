@@ -11,6 +11,7 @@
 | [[50-design-words-to-know\|50 design words to know]] | Canva에서 제공하는 50가지 디자인 필수 용어 | 2026-05-04 |
 | [[51-key-words-all-designers-should-know\|51 Key words all designers should know]] | Adobe Express의 51가지 핵심 키워드 정리 | 2026-05-04 |
 | [[design-words-02\|design words 02]] | 현대적 트렌드, 레트로 등 다양한 디자인 스타일/사조 | 2026-05-04 |
+| [[top-862-graphic-design-keywords\|Top 862 Graphic Design Keywords]] | 검색량 기준 862개 그래픽 디자인 키워드 및 인슬사이트 | 2026-05-05 |
 
 ## Entities (개체)
 
@@ -21,6 +22,8 @@
 | [[qmd\|qmd]] | Quarto Markdown 포맷 |
 | [[canva\|Canva]] | 사용자 친화적인 온라인 그래픽 디자인 플랫폼 |
 | [[adobe-express\|Adobe Express]] | Adobe의 간편한 디자인 제작 플랫폼 |
+| [[figma\|Figma]] | UI/UX 디자인 업계 표준 클라우드 협업 도구 |
+| [[adobe-photoshop\|Adobe Photoshop]] | 업계 표준 래스터 이미지 편집 소프트웨어 |
 
 ## Concepts (개념)
 
@@ -33,6 +36,9 @@
 | [[branding\|Branding]] | 일관된 시각적 정체성을 만드는 과정과 로고의 종류(Logotype, Brandmark 등) |
 | [[design-styles\|Design Styles]] | 디자인 트렌드와 역사를 반영하는 다양한 시각적 스타일(브루탈리즘, 글래스모피즘 등) 모음 |
 | [[print-design\|Print Design]] | 실물 인쇄 디자인을 위한 필수 개념(Bleed, Trim, CMYK) 및 후가공 기법 |
+| [[ux-ui-design\|UX/UI Design]] | 와이어프레임, 프로토타입, 퍼소나 등 사용자 경험 및 인터페이스 설계 |
+| [[design-systems\|Design Systems]] | 재사용 컴포넌트, 디자인 토큰, 패턴 라이브러리로 구성된 공유된 디자인 언어 |
+| [[gestalt-principles\|Gestalt Principles]] | 인간이 시각적 요소들을 인식하는 원리 (근접성, 유사성, 폐쉬성 등) |
 
 ## Analyses (분석)
 
